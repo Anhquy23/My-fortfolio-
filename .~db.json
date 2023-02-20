@@ -24,16 +24,13 @@
       "id": 1
     },
     {
+      "id": 2,
       "ten": "Catering",
       "mota": "Catering",
-      "tglam": "7 giờ",
+      "tglam": "8 giờ",
       "cnghe": "HTML5, CSS3",
       "demo": "https://catering-xi.vercel.app/",
-      "github": "https://github.com/Anhquy23/Catering.git",
-      "anh": [
-        "https://res.cloudinary.com/dzo94imrh/image/upload/v1676865818/ECMA/ggv8ygrgqctet3n9zs5g.jpg"
-      ],
-      "id": 2
+      "github": "https://github.com/Anhquy23/Catering.git"
     },
     {
       "ten": "Parallax",
